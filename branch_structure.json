@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-368-feat-devx-let-run-node-tests-accept-a-file",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-368-feat-devx-let-run-node-tests-accept-a-file": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-368-feat-devx-let-run-node-tests-accept-a-file",
+    "origin"
+  ]
+}
